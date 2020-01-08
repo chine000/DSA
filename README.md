@@ -1,15 +1,15 @@
 # Content
 
-- Homework：
+- **Homework**：
    * [HW1 - Quick Sort](https://github.com/chine000/DSA/tree/master/HW1)
    * [HW2 - Merge Sort & Heap Sort](https://github.com/chine000/DSA/tree/master/HW2)
    * [HW3 - BST](https://github.com/chine000/DSA/tree/master/HW3)
    * [HW4 - Hash Table](https://github.com/chine000/DSA/tree/master/HW4)
    * [HW5 - BFS & DFS](https://github.com/chine000/DSA/tree/master/HW5)
    * [HW6 - Dijkstra & Kruskal](https://github.com/chine000/DSA/tree/master/HW6)
-- Leetcode：
+- **Leetcode**：
 
-- My Learning Note：
+- **My Learning Note**：
    * [Week 1 - 17](https://github.com/chine000/DSA/blob/master/README.md)
 
 
