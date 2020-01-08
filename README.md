@@ -10,23 +10,7 @@
 - Leetcode：
 
 - My Learning Note：
-   * [Week 1](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 2](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 3](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 4](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 5](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 6](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 7](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 8](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 9](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 10](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 11](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 12](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 13](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 14](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 15](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 16](https://github.com/chine000/DSA/blob/master/README.md)
-   * [Week 17](https://github.com/chine000/DSA/blob/master/README.md)
+   * [Week 1 - 17](https://github.com/chine000/DSA/blob/master/README.md)
 
 
 
