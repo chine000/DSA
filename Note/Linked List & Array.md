@@ -1,4 +1,5 @@
-# Week 2 - Linked List & Array
+# Week 2
+**Linked List & Array**
 ![](https://miro.medium.com/max/1732/1*aeJZmbE3xBDZfYOu6p5CPw.png)
 
 - Linked List：由節點（node）組成資料，再由pointer指向下一個節點，藉此串連起來，以null表達終點，可以不連續的資料型態儲存在記憶體中。
