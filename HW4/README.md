@@ -1,4 +1,4 @@
-**Hash Table** 
+# Hash Table
 
 ![](https://i.imgur.com/D85eZMz.png)
 
