@@ -1,4 +1,6 @@
-# Week 3 - Stack & Queue
+# Week 3
+
+**Stack & Queue**
 
 ![](https://www.thecrazyprogrammer.com/wp-content/uploads/2016/05/Difference-Between-Stack-and-Queue.jpg)
 
